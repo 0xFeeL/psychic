@@ -1,0 +1,9 @@
+body {
+	background-color: #ABCDEF;
+	background-image: url("../images/bg.jpg");
+}
+
+.links {
+	background-color: #ABCDEF;
+	opacity: 0.8;
+}
